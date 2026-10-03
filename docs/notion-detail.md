@@ -65,5 +65,5 @@
 
 프로젝트를 완성했습니다.
 
-- [시연 포함 프로젝트 소개서](https://canva.link/ob0qsimh66zwwxg)
+- [시연 포함 프로젝트 소개서](https://www.canva.com/design/DAHMzehL3tY/Tj1xLuej4xI_4I2dVWDKBg/view?embed)
 - [코드 샘플·쇼케이스 안내](../README.md)
