@@ -56,4 +56,4 @@ STOMP 콜백의 JSON을 잠금으로 보호한 큐에 넣고 Unity Update에서 
 
 - [시연 포함 프로젝트 소개서](https://www.canva.com/design/DAHMzehL3tY/Tj1xLuej4xI_4I2dVWDKBg/view?embed)
 - [프로젝트 상세 글](docs/notion-detail.md)
-- [노션 상세 페이지](https://www.notion.so/3cba971ce6a28112a579cb50e48d3e38)
+- [노션 상세 페이지](https://splashy-moth-509.notion.site/C-to-C-Chat-to-Crane-3cba971ce6a28112a579cb50e48d3e38)
