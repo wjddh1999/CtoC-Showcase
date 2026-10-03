@@ -8,7 +8,7 @@
 
 **의존성:** Unity/uGUI/TMP, ChatMessageData·ChatDirectionText, CraneEventHub, CraneGrabber, 투표 필드·그래프 갱신·타임아웃 시작/중단 메서드.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/ChatTestController.cs)
+**원본 파일:** `Assets/Scripts/ChatTestController.cs`
 
 원본 범위: `Assets/Scripts/ChatTestController.cs:118–171`
 

@@ -8,7 +8,7 @@
 
 **의존성:** System, ChatDirection enum. 발췌 클래스 자체는 완전하지만 원본 ChatModels.cs 전체는 아닙니다.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/ChatModels.cs)
+**원본 파일:** `Assets/Scripts/ChatModels.cs`
 
 원본 범위: `Assets/Scripts/ChatModels.cs:53–147`
 

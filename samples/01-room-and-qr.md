@@ -8,7 +8,7 @@ REST 방 생성이 끝난 뒤 방 ID로 구독 주소를 구성합니다. 방 �
 
 **의존성:** Unity 6000.5.0f1, UnityWebRequest/uGUI, Netina.Stomp.Client, Newtonsoft.Json, CancellationToken/Task; CreateRoomAsync·RoomCreateData·구독 주소 해석·QR 로딩 메서드와 비공개 연결 설정.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/NetworkManager.cs)
+**원본 파일:** `Assets/Scripts/NetworkManager.cs`
 
 원본 범위: `Assets/Scripts/NetworkManager.cs:124–164`
 

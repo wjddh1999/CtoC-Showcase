@@ -67,4 +67,3 @@
 
 - [시연 포함 프로젝트 소개서](https://canva.link/ob0qsimh66zwwxg)
 - [코드 샘플·쇼케이스 안내](../README.md)
-- [팀 Unity 저장소](https://github.com/AllforOne5Class/CtoC_Unity)

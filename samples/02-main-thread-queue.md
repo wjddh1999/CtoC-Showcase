@@ -8,7 +8,7 @@
 
 **의존성:** Unity MonoBehaviour, System.Collections.Generic, ChatMessageData, 큐·잠금 필드, HandleChatJson·DispatchChatReceived 및 STOMP 수신 콜백.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/NetworkManager.cs)
+**원본 파일:** `Assets/Scripts/NetworkManager.cs`
 
 원본 범위: `Assets/Scripts/NetworkManager.cs:78–89`
 

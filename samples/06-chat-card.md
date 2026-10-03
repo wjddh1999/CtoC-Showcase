@@ -8,7 +8,7 @@
 
 **의존성:** Unity/uGUI, TMPro, ChatMessageData, ProfileSpriteCache·프로필 필드, 이미지 다운로드·캐시 해제·자식 참조 조회·문자 치환 메서드.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/ChatItemView.cs)
+**원본 파일:** `Assets/Scripts/ChatItemView.cs`
 
 원본 범위: `Assets/Scripts/ChatItemView.cs:21–70`
 

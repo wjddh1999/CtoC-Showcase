@@ -8,7 +8,7 @@
 
 **의존성:** Unity Rigidbody/Transform/Vector2/Vector3/Mathf, ChatDirection·CraneEventHub, rb·거리·경계·잠금 필드, Stop 및 GetMoveInput.
 
-**원본:** [고정 커밋 소스](https://github.com/AllforOne5Class/CtoC_Unity/blob/11d0b66c1eaf7190a659df8faabc7e542285e7f6/Assets/Scripts/MotorMover.cs)
+**원본 파일:** `Assets/Scripts/MotorMover.cs`
 
 원본 범위: `Assets/Scripts/MotorMover.cs:118–124`
 
