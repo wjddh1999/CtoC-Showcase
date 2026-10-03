@@ -4,7 +4,7 @@
 
 **본인 역할:** 방향 별칭·정규화 구현.
 
-**형식:** 일부 발췌. 독립 실행 파일이 아니며 클래스 필드와 나머지 메서드를 포함하지 않습니다.
+**형식:** ChatModels.cs에서 ChatDirectionText 클래스 전체를 발췌했습니다. ChatDirection enum은 포함하지 않습니다.
 
 **의존성:** System, ChatDirection enum. 발췌 클래스 자체는 완전하지만 원본 ChatModels.cs 전체는 아닙니다.
 
